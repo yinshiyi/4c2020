@@ -2,4 +2,4 @@
 2. automation for multiplex fastq
 3. adapation between 4cseqpipe and pipe4c
 4. modified plotting script for easy illustor post production for manuscript
-5. changed lower cut parameter for adjustment of threshold
+5. changed lower cut parameter for adjustment of threshold, this is written into a option as "min_cutoff"
