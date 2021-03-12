@@ -1,3 +1,7 @@
+
+replace the r script and perl script to the orginal package
+
+
 1. support fastq.gz file
 2. automation for multiplex fastq
 3. adapation between 4cseqpipe and pipe4c
